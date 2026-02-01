@@ -60,13 +60,16 @@
     <tr>
       <td width="30%" align="center" valign="center">
         <img src="Wechat-Joanna.jpg" width="150" alt="WeChat QR Code"><br>
-        <b>Scan to Chat</b>
+        <sub>(Scan to Chat)</sub>
       </td>
       <td valign="center">
         <ul>
-          <li><b>WeChat ID:</b> a9joanna01 (Please leave a note: "GitHub/X")</li>
-          <li><b>Email:</b> <a href="mailto:joanna_sym [at] qq [dot] com">joanna_sym [at] qq [dot] com</a></li>
-          <li><b>Focus:</b> HR Digital Transformation, AI Workflow Optimization</li>
+          <li>💬 <b>WeChat ID:</b> <code>a9joanna01</code><br>
+          <em>(Note: Please mention "GitHub/X" when adding)</em></li>
+          <br>
+          <li>📧 <b>Email:</b> <code>joanna_sym [at] qq [dot] com</code></li>
+          <br>
+          <li>🎯 <b>Focus:</b> HR Digital Transformation, AI Workflow Optimization</li>
         </ul>
       </td>
     </tr>
