@@ -64,8 +64,8 @@
       </td>
       <td valign="center">
         <ul>
-          <li><b>WeChat ID:</b> a9joanna01</li>
-          <li><b>Email:</b> <a href="mailto:joanna_sym@qq.com">joanna_sym@qq.com</a></li>
+          <li><b>WeChat ID:</b> a9joanna01 (Please leave a note: "GitHub/X")</li>
+          <li><b>Email:</b> <a href="mailto:joanna_sym [at] qq [dot] com">joanna_sym [at] qq [dot] com</a></li>
           <li><b>Focus:</b> HR Digital Transformation, AI Workflow Optimization</li>
         </ul>
       </td>
