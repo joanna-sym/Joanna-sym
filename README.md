@@ -63,14 +63,14 @@
 ## 我常用的工具栈
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AI-Claude-6f42c1?style=flat-square" alt="Claude">
-  <img src="https://img.shields.io/badge/AI-ChatGPT-10a37f?style=flat-square" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Code-Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/App-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Web-Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Workflow-Feishu/Lark-3370ff?style=flat-square" alt="Feishu/Lark">
-  <img src="https://img.shields.io/badge/Automation-RPA-00a86b?style=flat-square" alt="RPA">
-  <img src="https://img.shields.io/badge/Media-CapCut-111111?style=flat-square" alt="CapCut">
+  <img src="https://img.shields.io/badge/Code-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/UI-React-61dafb?style=flat-square&logo=react&logoColor=111111" alt="React">
+  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Package-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm">
+  <img src="https://img.shields.io/badge/Data-JSON-111111?style=flat-square&logo=json&logoColor=white" alt="JSON">
 </p>
 
 <br>
