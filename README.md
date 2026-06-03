@@ -93,6 +93,7 @@
       <sub>扫码添加微信</sub>
     </td>
     <td valign="middle">
+      <p><strong>微信：</strong><code>JoannaLab</code></p>
       <p><strong>邮箱：</strong><code>shenjoanna@qq.com</code></p>
       <p><strong>备注：</strong>如果你是从 GitHub 看到我，添加时可以备注「GitHub」。</p>
       <p><strong>交流方向：</strong>企业 AI 应用、业务流程提效、HR 数字化、内部工具搭建。</p>
