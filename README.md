@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/github-banner-joanna-shen.jpg" width="100%" alt="Joanna Shen GitHub Banner">
+  <img src="assets/github-banner.webp" width="100%" alt="Joanna Shen GitHub Banner">
 </div>
 
 <br>
@@ -36,7 +36,7 @@
 ## 我的双核心能力
 
 <div align="center">
-  <img src="assets/enterprise-ai-toolmaker.png" width="100%" alt="我懂企业现场，也能做出 AI 工具">
+  <img src="assets/strength-enterprise-ai-toolmaker.webp" width="100%" alt="我懂企业现场，也能做出 AI 工具">
 </div>
 
 <br>
@@ -44,7 +44,7 @@
 ## 我的职业与业务现场
 
 <div align="center">
-  <img src="assets/business-ai-practitioner-timeline.png" width="100%" alt="Joanna Shen 职业经历与企业 AI 应用实践">
+  <img src="assets/career-timeline.webp" width="100%" alt="Joanna Shen 职业经历与企业 AI 应用实践">
 </div>
 
 <br>
@@ -89,7 +89,7 @@
 <table>
   <tr>
     <td width="180" align="center" valign="middle">
-      <img src="assets/wechat-qr-joanna.jpg" width="150" alt="Joanna Shen WeChat QR Code"><br>
+      <img src="assets/wechat-contact.webp" width="150" alt="Joanna Shen WeChat QR Code"><br>
       <sub>扫码添加微信</sub>
     </td>
     <td valign="middle">
