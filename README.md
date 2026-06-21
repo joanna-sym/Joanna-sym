@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/github-banner.webp" width="100%" alt="Joanna Shen GitHub Banner">
+  <img src="assets/github-banner1.webp" width="100%" alt="Joanna Shen GitHub Banner">
 </div>
 
 <br>
