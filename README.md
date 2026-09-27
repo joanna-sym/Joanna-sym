@@ -72,33 +72,6 @@ I care about three things:
 
 <br />
 
-## My Two Main Strengths
-
-<div align="center">
-  <a href="https://joannalab.cn/about">
-    <img
-      src="https://media.joannalab.com/ip-assets/article-20260625-002/inline/inline-original-09.webp"
-      width="100%"
-      alt="Joanna understands real business work and can build useful AI tools"
-    />
-  </a>
-</div>
-
-<br />
-
-## My Work Experience
-
-<div align="center">
-  <a href="https://joannalab.cn/about">
-    <img
-      src="https://media.joannalab.com/brand-assets/about-page/intro-images/article-20260703-002_about-intro-image_02.webp"
-      width="100%"
-      alt="Joanna's work experience and AI projects"
-    />
-  </a>
-</div>
-
-<br />
 
 ## What I Focus On
 
