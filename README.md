@@ -1,109 +1,191 @@
 <div align="center">
-  <img src="assets/github-banner1.webp" width="100%" alt="Joanna Shen GitHub Banner">
+  <a href="https://joannalab.cn/about">
+    <img
+      src="https://media.joannalab.com/brand-assets/about-page/joanna-about-hero-20260926.webp"
+      width="100%"
+      alt="Joanna Shen: Turning real business problems into useful AI tools"
+    />
+  </a>
 </div>
 
-<br>
-
-<h1 align="center">你好，我是 Joanna Shen</h1>
-
-<h3 align="center">
-  企业 AI 应用实践者｜业务问题拆解者｜可用工具搭建者
-</h3>
-
-<p align="center">
-  我关注的不是“把 AI 做得看起来很厉害”，而是把真实业务问题拆清楚，做成团队能用、能跑、能持续迭代的工具和方法。
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joanna-sym&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
-<br>
-
-## 我是谁
-
-我有 10+ 年跨行业管理与业务协同经验，经历过一线零售、生产制造、医疗器械、业务咨询与企业 AI 应用实践。  
-我习惯从业务现场出发，理解人的协作、流程的卡点、数据的断点，再判断 AI、自动化和内部工具应该放在哪里。
-
-我现在最关注三件事：
-
-- **看懂真实问题**：不是从工具出发，而是先判断哪件事重复最多、最耗人、最容易出错、最值得优化。
-- **搭出可用工具**：用 AI 编程、自动化、表单、工作流和轻量应用，把问题变成可运行的解决方案。
-- **沉淀复用方法**：不做一次性演示，而是把有效做法整理成团队以后还能继续用、继续改、继续扩展的方法。
-
-<br>
-
-## 我的双核心能力
+<br />
 
 <div align="center">
-  <img src="assets/strength-enterprise-ai-toolmaker.webp" width="100%" alt="我懂企业现场，也能做出 AI 工具">
+
+<a href="https://github.com/joanna-sym/Joanna-sym/blob/master/README.zh-CN.md">
+  <img
+    src="https://img.shields.io/badge/中文介绍-点击查看-E66B4C?style=for-the-badge"
+    alt="View Chinese Version"
+  />
+</a>
+
+<a href="https://joannalab.cn">
+  <img
+    src="https://img.shields.io/badge/Official_Website-Visit_JoannaLab-125192?style=for-the-badge"
+    alt="Visit JoannaLab"
+  />
+</a>
+
+<br />
+<br />
+
+<strong>AI Training for Companies · AI Implementation Support · AI Agents for Business Tasks</strong>
+
+# Hi, I’m Joanna
+
+### I understand people, work processes, and business problems. I turn these problems into AI ways of working that employees can learn, teams can use, and companies can keep.
+
+I now focus on AI training for companies, AI implementation support, and AI agents for real business tasks.
+
+I start with one real problem and help teams bring AI into daily work.
+
+[Official Website](https://joannalab.cn) · [About Me](https://joannalab.cn/about) · [Email Me](mailto:shenjoanna@qq.com)
+
 </div>
 
-<br>
+<br />
 
-## 我的职业与业务现场
+## About Me
+
+I have 15 years of experience in business management. I have worked in retail, manufacturing, medical devices, and business consulting. I have also worked as a trainer.
+
+These years of work taught me more than rules and processes. They helped me understand how people work inside a company:
+
+- What does the business owner care about?
+- Why do some teams support a new plan while others do not?
+- Why do employees stop using a tool after training?
+- What helps a new way of working stay inside the company?
+
+Today, I bring this experience into AI projects.
+
+I do not start with AI models, tool lists, or technical terms. I first look for work that happens again and again, takes too much time, and is worth improving. Then I use training, hands-on support, and AI tools to bring AI into the real work process.
+
+Some people call this role a **Forward Deployed Engineer (FDE)**.
+
+To me, FDE is not only a technical job title. It is a way of working close to the business. I work with real users to define the problem, choose the right task, build a useful first version, test it, and improve it through real use.
+
+I care about three things:
+
+- **Start with the business:** I do not start with a list of AI tools. I first look for work that happens often, depends too much on people, and is worth improving.
+- **Help employees learn:** Training should not stop at “I understand.” Employees should practise with their own work, get feedback, and learn how to improve.
+- **Keep the ability inside the company:** Good methods should become prompts, processes, templates, AI agents, and real examples that the team can use again.
+
+<br />
+
+## My Two Main Strengths
 
 <div align="center">
-  <img src="assets/career-timeline.webp" width="100%" alt="Joanna Shen 职业经历与企业 AI 应用实践">
+  <a href="https://joannalab.cn/about">
+    <img
+      src="https://media.joannalab.com/ip-assets/article-20260625-002/inline/inline-original-09.webp"
+      width="100%"
+      alt="Joanna understands real business work and can build useful AI tools"
+    />
+  </a>
 </div>
 
-<br>
+<br />
 
-## 我能解决什么
+## My Work Experience
 
-| 方向 | 我会怎么做 | 适合的场景 |
+<div align="center">
+  <a href="https://joannalab.cn/about">
+    <img
+      src="https://media.joannalab.com/brand-assets/about-page/intro-images/article-20260703-002_about-intro-image_02.webp"
+      width="100%"
+      alt="Joanna's work experience and AI projects"
+    />
+  </a>
+</div>
+
+<br />
+
+## What I Focus On
+
+| Area | How I Work | Best For |
 | :--- | :--- | :--- |
-| **企业 AI 工作流提效** | 拆解重复任务，设计 AI 辅助流程，做成可执行 SOP 或轻量工具 | 资料整理、研究分析、日报周报、跨部门信息同步 |
-| **内部业务工具搭建** | 用 AI 编程与自动化工具，把表格、流程、知识库变成可操作系统 | HR、销售支持、运营管理、内容生产、项目协同 |
-| **业务问题诊断** | 从一线流程、人员协作、管理目标里找到真正卡点 | 流程反复、沟通成本高、工具很多但没人用 |
-| **方法沉淀与团队上手** | 把工具使用方式、判断标准和复用模板整理成团队资产 | 企业内部 AI 推广、部门效率升级、个人工作流重建 |
+| **AI Training for Companies** | Before training, I collect real tasks from the team. During training, employees practise with their own work. After training, we keep useful prompts, workflows, and examples. | Teams that already use or plan to use AI tools and want employees to use them in daily work. |
+| **AI Implementation Support** | We choose one task to test, review the current process, use AI in real work, collect feedback, and improve the method step by step. | Companies that want to start with one team, job, or work process and move from testing AI to regular use. |
+| **AI Agents for Business Tasks** | I focus on one clear and repeated problem, then build a knowledge base, automation, workflow, or internal business tool. | HR, sales, management, store operations, industry research, training, and team work. |
 
-<br>
+<br />
 
-## 我常用的工具栈
+## How I Work With Teams
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Web-Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Code-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/UI-React-61dafb?style=flat-square&logo=react&logoColor=111111" alt="React">
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Package-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm">
-  <img src="https://img.shields.io/badge/Data-JSON-111111?style=flat-square&logo=json&logoColor=white" alt="JSON">
-</p>
+### 01｜Start With a Real Task
 
-<br>
+I first talk with the business owner, team leader, and real users.
 
-## 我正在构建的方向
+We look at how the work is done today, where people spend the most time, and where mistakes often happen.
 
-- 把企业里的“重复但重要”的工作拆成 AI 可辅助的流程。
-- 把个人经验沉淀成可迁移的方法、模板、工具和案例。
-- 从 HR、业务咨询、医疗器械和一线运营经验里，持续寻找真正值得 AI 改造的场景。
-- 用小工具验证需求，用真实反馈决定是否继续产品化。
+### 02｜Test and Improve Through Real Use
 
-<br>
+We choose one clear task and build the first working version with existing AI tools, prompts, or a simple business tool.
 
-## 联系我
+Real users test it and share feedback while using it.
+
+### 03｜Keep What Works Inside the Team
+
+We turn the useful method into SOPs, templates, workflows, AI agents, and real examples.
+
+The team can then continue to use and improve it.
+
+<br />
+
+## What I Bring to a Project
+
+- Business interviews, task selection, and process review to find the right AI use case.
+- Training based on real work, so employees can complete their first useful AI task.
+- Fast first versions built with prompts, knowledge bases, automation scripts, and simple web tools.
+- Clear processes, examples, and tools that the team can use again after the project ends.
+
+<br />
+
+## What I Am Building
+
+- AI training based on real tasks from real jobs.
+- A clear way to move from task review and first testing to regular AI use.
+- AI agents for HR, sales, management, and team work.
+
+<br />
+
+## Contact Joanna
 
 <table>
   <tr>
-    <td width="180" align="center" valign="middle">
-      <img src="assets/wechat-contact.webp" width="150" alt="Joanna Shen WeChat QR Code"><br>
-      <sub>扫码添加微信</sub>
+    <td width="190" align="center" valign="middle">
+      <a href="https://joannalab.cn/about">
+        <img
+          src="https://joannalab.cn/images/joanna-wechat-qr-20260926.webp"
+          width="150"
+          alt="Joanna's WeChat QR code"
+        />
+      </a>
+      <br />
+      <sub>Scan to connect with Joanna on WeChat</sub>
     </td>
     <td valign="middle">
-      <p><strong>微信：</strong><code>JoannaLab</code></p>
-      <p><strong>备注：</strong>如果你是从 GitHub 看到我，添加时可以备注「GitHub」。</p>
-      <p><strong>交流方向：</strong>企业 AI 应用、业务流程提效、HR 数字化、内部工具搭建。</p>
+      <p>
+        <strong>Official Website:</strong>
+        <a href="https://joannalab.cn">https://joannalab.cn</a>
+      </p>
+      <p><strong>Douyin:</strong> JoannaLab让AI跑进真实业务</p>
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:shenjoanna@qq.com">shenjoanna@qq.com</a>
+      </p>
     </td>
   </tr>
 </table>
 
-<br>
+<br />
 
 ---
 
-<p align="center">
-  把真实业务问题，做成能用的 AI 工具。
-</p>
+<div align="center">
+
+### Start with one real problem. Help employees learn, help teams use AI, and keep the ability inside the company.
+
+[Visit JoannaLab](https://joannalab.cn) · [Learn More About Me](https://joannalab.cn/about)
+
+</div>
