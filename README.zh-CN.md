@@ -84,7 +84,7 @@
 <div align="center">
   <a href="https://joannalab.cn/about">
     <img
-      src="https://media.joannalab.com/brand-assets/about-page/intro-images/article-20260703-002_about-intro-image_02.webp"
+      src="./assets/career-timeline.webp"
       width="100%"
       alt="Joanna（亦湄）的个人履历与 AI 应用实践经历"
     />
