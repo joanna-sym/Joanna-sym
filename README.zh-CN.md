@@ -70,7 +70,7 @@
 <div align="center">
   <a href="https://joannalab.cn/about">
     <img
-      src="./assets/strength-enterprise-ai-toolmaker.webp"
+      src=".assets/strength-enterprise-ai-toolmaker.webp"
       width="100%"
       alt="Joanna（亦湄）的个人优势：懂企业现场，也能做出工具"
     />
